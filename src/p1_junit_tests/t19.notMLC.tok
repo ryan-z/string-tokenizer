@@ -1,0 +1,9 @@
+Begin
+Ident x
+Equal
+Num 5
+OpMul
+OpDiv
+Num 2
+Semicolon
+End

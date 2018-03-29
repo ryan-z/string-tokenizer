@@ -1,0 +1,65 @@
+Begin
+Ident n
+Equal
+Num 360
+Semicolon
+Print
+ParenOpen
+String divisors of 
+OpAdd
+Ident n
+OpAdd
+String :
+ParenClose
+Semicolon
+For
+ParenOpen
+Ident i
+From
+Num 1
+To
+ParenOpen
+Ident n
+OpSub
+Num 1
+ParenClose
+ParenClose
+BraceOpen
+Ident temp
+Equal
+Ident n
+Semicolon
+While
+ParenOpen
+Ident temp
+OpGE
+Ident i
+ParenClose
+BraceOpen
+Ident temp
+Equal
+Ident temp
+OpSub
+Ident i
+Semicolon
+BraceClose
+If
+ParenOpen
+Ident temp
+OpEq
+Num 0
+ParenClose
+BraceOpen
+Print
+ParenOpen
+Ident i
+ParenClose
+Semicolon
+BraceClose
+Fi
+BraceClose
+Print
+ParenOpen
+String all done, you \"serious\" code watcher, you.
+ParenClose
+End

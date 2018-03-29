@@ -1,0 +1,6 @@
+BEGIN
+  x = "strings are more important than comments.";
+  y = "for instance, // this should be a string only";
+  z = "similarly, /* this part";
+  w = " and this part*/ are in two separate strings";
+END

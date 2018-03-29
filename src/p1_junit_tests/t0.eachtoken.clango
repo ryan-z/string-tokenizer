@@ -1,0 +1,13 @@
+// each.txt: this file is clearly not going to compile, but we should be able to 
+// tokenize it, at least.
+BEGIN END
+if fi else
+for from to while break continue
+print
+true false 
+  ; = { } ( ) || && ! < <= > >= == != + - * / **
+identifiers
+0 1 2 9 10 100 5039
+"string values" "many string values"
+"including \n\t\"\'\n\t\"\'\\ there"
+

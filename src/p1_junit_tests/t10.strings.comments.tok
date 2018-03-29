@@ -1,0 +1,18 @@
+Begin
+Ident x
+Equal
+String strings are more important than comments.
+Semicolon
+Ident y
+Equal
+String for instance, // this should be a string only
+Semicolon
+Ident z
+Equal
+String similarly, /* this part
+Semicolon
+Ident w
+Equal
+String  and this part*/ are in two separate strings
+Semicolon
+End

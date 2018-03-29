@@ -1,0 +1,6 @@
+BEGIN
+  
+ one = "this is sneaky! /*  ";
+ two = "not a comment: // haha";
+ three = "not here either: /* // */nope";
+END

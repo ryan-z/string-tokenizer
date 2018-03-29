@@ -1,0 +1,13 @@
+Begin
+Ident ONE
+Equal
+String there's a great place here.
+Semicolon
+Ident TWO
+Equal
+String  I like \"inner quotes\" to be escaped and included.
+Semicolon
+Ident THREE
+Equal
+String garbage inside: \n \t \\n \\t \" \' 
+End

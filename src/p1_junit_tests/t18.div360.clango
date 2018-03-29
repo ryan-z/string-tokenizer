@@ -1,0 +1,25 @@
+/*
+ * this program uses our pitifully under-empowered language, 
+ * CLANG0, to print out all divisors of 360. */
+BEGIN
+  n = 360;
+
+  print ("divisors of " + n + ":");
+
+  for (i from 1 to (n-1)) {
+    temp = n;
+    
+    // poor-man's modulus.
+    while ( temp >= i) {
+      temp = temp - i;
+    }
+    // did we divide evenly?
+    if ( temp == 0 ) {
+      print (i);
+    }
+    fi
+  }
+  print ("all done, you \"serious\" code watcher, you.")
+  
+  
+END

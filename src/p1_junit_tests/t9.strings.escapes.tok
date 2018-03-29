@@ -1,0 +1,10 @@
+Begin
+Ident x
+Equal
+String escapes include \n,\t, \",\'
+Semicolon
+Ident y
+Equal
+String escapes are typed as \\\n, \\\t, \\\",\\\'
+Semicolon
+End

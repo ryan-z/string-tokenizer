@@ -1,0 +1,11 @@
+BEGIN
+  // comment line.
+  a = 3; // comment line.
+  // comment line /*
+  
+  x /* single MLC */ = 5;
+  y = 6; /* MLC: 
+   * more more 
+   * more 
+   */ z = 7;
+END

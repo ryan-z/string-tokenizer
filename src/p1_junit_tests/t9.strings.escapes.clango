@@ -1,0 +1,4 @@
+BEGIN
+  x = "escapes include \n,\t, \",\'";
+  y = "escapes are typed as \\\n, \\\t, \\\",\\\'";
+END

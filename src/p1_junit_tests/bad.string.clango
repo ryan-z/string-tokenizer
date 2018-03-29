@@ -1,0 +1,5 @@
+BEGIN
+
+  var = " i will forget to close this;
+  print (var)
+END

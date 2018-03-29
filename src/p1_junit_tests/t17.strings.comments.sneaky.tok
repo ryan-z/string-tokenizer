@@ -1,0 +1,14 @@
+Begin
+Ident one
+Equal
+String this is sneaky! /*  
+Semicolon
+Ident two
+Equal
+String not a comment: // haha
+Semicolon
+Ident three
+Equal
+String not here either: /* // */nope
+Semicolon
+End

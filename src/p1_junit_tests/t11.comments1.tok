@@ -1,0 +1,18 @@
+Begin
+Ident a
+Equal
+Num 3
+Semicolon
+Ident x
+Equal
+Num 5
+Semicolon
+Ident y
+Equal
+Num 6
+Semicolon
+Ident z
+Equal
+Num 7
+Semicolon
+End

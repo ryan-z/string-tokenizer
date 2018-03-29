@@ -1,0 +1,45 @@
+Begin
+End
+If
+Fi
+Else
+For
+From
+To
+While
+Break
+Continue
+Print
+True
+False
+Semicolon
+Equal
+BraceOpen
+BraceClose
+ParenOpen
+ParenClose
+OpOr
+OpAnd
+OpNot
+OpL
+OpLE
+OpG
+OpGE
+OpEq
+OpNeq
+OpAdd
+OpSub
+OpMul
+OpDiv
+OpPow
+Ident identifiers
+Num 0
+Num 1
+Num 2
+Num 9
+Num 10
+Num 100
+Num 5039
+String string values
+String many string values
+String including \n\t\"\'\n\t\"\'\\ there

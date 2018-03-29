@@ -1,0 +1,13 @@
+BEGIN
+/*  one
+   /* two */
+   /* two */
+   /* two 
+      
+      /*three */
+   */
+  
+*/
+  
+  END
+  

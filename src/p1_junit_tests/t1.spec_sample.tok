@@ -1,0 +1,16 @@
+Begin
+Ident first
+Equal
+Num 3
+Semicolon
+Ident other
+Equal
+Num 5
+Semicolon
+Print
+ParenOpen
+Ident first
+OpAdd
+Ident other
+ParenClose
+End

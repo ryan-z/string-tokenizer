@@ -1,0 +1,5 @@
+BEGIN
+first = 3;
+other = 5;
+print (first    + other)
+END

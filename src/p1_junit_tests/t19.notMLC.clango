@@ -1,0 +1,6 @@
+BEGIN
+/* mlc's are nice, but they're not always here. */
+
+x = 5 */ 2;
+
+END

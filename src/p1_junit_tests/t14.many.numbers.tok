@@ -1,0 +1,41 @@
+Ident next
+Num 1
+OpAdd
+Num 2
+Ident next
+Num 3
+OpAdd
+OpSub
+Num 4
+Ident next
+OpSub
+Num 5
+OpAdd
+Num 6
+Ident next
+OpSub
+Num 7
+OpAdd
+OpSub
+Num 8
+Ident next
+Num 9
+OpSub
+Num 10
+Ident next
+Num 11
+OpSub
+OpSub
+Num 12
+Ident next
+OpSub
+Num 13
+OpSub
+Num 14
+Ident next
+OpSub
+Num 15
+OpSub
+OpSub
+Num 16
+Ident done

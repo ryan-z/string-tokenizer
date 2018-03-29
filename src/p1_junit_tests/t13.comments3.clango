@@ -1,0 +1,13 @@
+BEGIN
+  /* this will look weird, but
+   * 
+   * we will end this comment
+   * 
+   */
+  
+  // and then have another */ in live code that isn't actually part of a comment.
+  // it'll make it past tokenization as OpMul OpDiv, but then would assumedly break later on.
+  
+  */
+  
+  END

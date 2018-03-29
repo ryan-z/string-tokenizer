@@ -1,0 +1,4 @@
+BEGIN
+  ONE = "there's a great place here.";
+  TWO = " I like \"inner quotes\" to be escaped and included." ;
+  THREE = "garbage inside: \n \t \\n \\t \" \' " END
